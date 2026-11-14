@@ -24,3 +24,17 @@ Possible Solutions:
 - Check Wi-Fi connection.
 - Restart the router.
 - Run Windows Network Troubleshooter.
+
+  ## Problem 3: Printer Is Not Printing
+
+Possible Causes:
+- Printer is offline.
+- Paper jam.
+- Low ink or toner.
+- Incorrect printer settings.
+
+Possible Solutions:
+- Check the printer connection.
+- Remove jammed paper.
+- Check ink or toner levels.
+- Restart the printer.
