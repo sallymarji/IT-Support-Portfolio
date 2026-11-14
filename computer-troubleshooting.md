@@ -58,3 +58,25 @@ Possible Solutions:
 
 ### Important
 Always disconnect power before inspecting internal hardware.
+
+
+# Hardware vs Software
+
+## Hardware
+Physical components of a computer.
+
+Examples:
+- CPU
+- RAM
+- SSD
+- Motherboard
+- Keyboard
+
+## Software
+Programs and operating systems.
+
+Examples:
+- Windows 11
+- Microsoft Word
+- Google Chrome
+- Antivirus
