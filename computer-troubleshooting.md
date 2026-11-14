@@ -38,3 +38,23 @@ Possible Solutions:
 - Remove jammed paper.
 - Check ink or toner levels.
 - Restart the printer.
+
+
+  
+## Problem 4: Computer Won't Turn On
+
+### Possible Causes
+- Power cable is disconnected.
+- Power outlet is not working.
+- Power supply failure.
+- Laptop battery is empty.
+
+### Troubleshooting Steps
+1. Check the power cable.
+2. Test the electrical outlet.
+3. Check the power adapter.
+4. Check the laptop battery.
+5. Contact a technician if the problem continues.
+
+### Important
+Always disconnect power before inspecting internal hardware.
